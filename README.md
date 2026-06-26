@@ -36,6 +36,7 @@ JS-Roadmap-projects/
 ├── Grade Report Generator/
 ├── Task List Utilities/
 ├── Expense Summary/
+├── Product Search and Filter/
 │
 └── README.md
 ```
@@ -55,6 +56,7 @@ JS-Roadmap-projects/
 | 7 | [Grade Report Generator](./Grade%20Report%20Generator/) | Conditional Logic, Objects           |
 | 8 | [Task List Utilities](./Task%20List%20Utilities/)       | Arrays, Immutability, Array Methods  |
 | 9 | [Expense Summary](./Expense%20Summary/)                 | Arrays, `reduce()`, Data Aggregation |
+| 10 | [Product Search and Filter](./Product%20Search%20and%20Filter/)                 | Arrays, `filter()`, `find()`, String Search |
 
 ---
 
@@ -73,6 +75,7 @@ Throughout these projects I've worked with:
 * Object Composition
 * Function Composition
 * Immutability
+* Searching and Filtering Data
 * Code Reusability
 * Clean Code Principles
 
@@ -92,7 +95,7 @@ The purpose of this repository is to:
 
 ## Progress
 
-**Completed Projects:** 9
+**Completed Projects:** 10
 
 This repository will continue to grow as I complete additional JavaScript projects from the Roadmap.sh curriculum.
 
