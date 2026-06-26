@@ -22,7 +22,7 @@ This project is intended as a beginner-friendly exercise for practicing:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 greeting-builder/
