@@ -37,6 +37,7 @@ JS-Roadmap-projects/
 ├── Task List Utilities/
 ├── Expense Summary/
 ├── Product Search and Filter/
+├── User Profile Formatter/
 │
 └── README.md
 ```
@@ -57,6 +58,7 @@ JS-Roadmap-projects/
 | 8 | [Task List Utilities](./Task%20List%20Utilities/)       | Arrays, Immutability, Array Methods  |
 | 9 | [Expense Summary](./Expense%20Summary/)                 | Arrays, `reduce()`, Data Aggregation |
 | 10 | [Product Search and Filter](./Product%20Search%20and%20Filter/)                 | Arrays, `filter()`, `find()`, String Search |
+| 11 | [User Profile Formatter](./User%20Profile%20Formatter/)                 | Nested Objects, Object Composition, Data Transformation |
 
 ---
 
@@ -66,6 +68,7 @@ Throughout these projects I've worked with:
 
 * JavaScript Functions
 * Objects
+* Nested Objects
 * Arrays
 * Array Methods (`map`, `filter`, `reduce`, `find`)
 * Conditional Statements
@@ -95,7 +98,7 @@ The purpose of this repository is to:
 
 ## Progress
 
-**Completed Projects:** 10
+**Completed Projects:** 11
 
 This repository will continue to grow as I complete additional JavaScript projects from the Roadmap.sh curriculum.
 
