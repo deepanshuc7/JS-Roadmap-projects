@@ -39,6 +39,7 @@ JS-Roadmap-projects/
 ├── Product Search and Filter/
 ├── User Profile Formatter/
 ├── Quiz Score Calculator/
+├── JSON Response Normalizer/
 │
 └── README.md
 ```
@@ -60,7 +61,8 @@ JS-Roadmap-projects/
 | 9 | [Expense Summary](./Expense%20Summary/)                 | Arrays, `reduce()`, Data Aggregation |
 | 10 | [Product Search and Filter](./Product%20Search%20and%20Filter/)                 | Arrays, `filter()`, `find()`, String Search |
 | 11 | [User Profile Formatter](./User%20Profile%20Formatter/)                 | Nested Objects, Object Composition, Data Transformation |
-| 12 | [Quiz Score Calculator](./Quiz%20Score%20Calculator/)                 | Nested Objects, Object Composition, Data Transformation |
+| 12 | [Quiz Score Calculator](./Quiz%20Score%20Calculator/)                 | NArrays, Objects, Data Matching, Calculations |
+| 13 | [JSON Response Normalizer](./JSON%20Response%20Normalizer/)                 | Arrays, Nested Objects, Data Transformation |
 
 ---
 
@@ -83,6 +85,8 @@ Throughout these projects I've worked with:
 * Searching and Filtering Data
 * Code Reusability
 * Clean Code Principles
+* Api Response Normalization
+* Data Transformation
 * Data Aggregation
 * Data Matching
 
@@ -102,7 +106,7 @@ The purpose of this repository is to:
 
 ## Progress
 
-**Completed Projects:** 12
+**Completed Projects:** 13
 
 This repository will continue to grow as I complete additional JavaScript projects from the Roadmap.sh curriculum.
 
